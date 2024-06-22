@@ -1,8 +1,0 @@
-*.swp
-googletest/*
-build/*
-cimpp/*
-cimpy/*
-*.py[cod]
-__pycache__/
-.vscode/*
