@@ -9,7 +9,7 @@ dependencies = [
     "xmltodict >= 0.13.0, < 1",
     "chevron >= 0.14.0, < 1",
     "cmake >= 3.27.0, < 4",
-    "pydantic < 2",
+    "pydantic <3",
     "beautifulsoup4 >= 4.12.2, < 5"
 ]
 
