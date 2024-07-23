@@ -1,9 +1,0 @@
-*.swp
-googletest/
-build/
-output/
-.venv/
-*.egg-info/
-*.py[cod]
-__pycache__/
-.vscode/*
